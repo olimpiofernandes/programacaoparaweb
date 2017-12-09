@@ -1,0 +1,15 @@
+.date{
+  font-family: helvetica, verdana, arial, tahoma;
+  font-size: 13px;
+  color: #ccc;
+  font-weight: none;
+  display: block;
+}
+.ajustTitlePage {
+  margin-left: 0px;
+  margin-bottom: 10px;
+}
+.spacePosts {
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
